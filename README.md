@@ -18,40 +18,6 @@ I'm solving problems from **LeetCode** and uploading my **Java solutions** here 
 
 ---
 
-## 📊 Progress Tracker
-
-| Metric | Count |
-|--------|-------|
-| ✅ Total Problems Solved | `0` |
-| 🟢 Easy | `0` |
-| 🟡 Medium | `0` |
-| 🔴 Hard | `0` |
-| 🔥 Current Streak | `0 days` |
-
-*(Update these numbers as you go!)*
-
----
-
-## 🗂️ Topics Covered
-
-- [ ] Arrays
-- [ ] Strings
-- [ ] Linked List
-- [ ] Stack & Queue
-- [ ] Recursion & Backtracking
-- [ ] Binary Search
-- [ ] Trees (Binary Tree / BST)
-- [ ] Graphs (BFS/DFS)
-- [ ] Dynamic Programming
-- [ ] Greedy Algorithms
-- [ ] Heaps / Priority Queue
-- [ ] Hashing / HashMap
-- [ ] Sliding Window & Two Pointers
-- [ ] Bit Manipulation
-- [ ] Trie
-
----
-
 ## 📁 Folder Structure
 
 ```
@@ -91,13 +57,13 @@ Each folder represents a **topic**, and each file is a **LeetCode problem solved
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/Devansh2869/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" alt="LeetCode"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/devansh-jain-3444073a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Devanshjain-360" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub"/>
   </a>
 </p>
