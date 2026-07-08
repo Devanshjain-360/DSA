@@ -9,48 +9,46 @@
 
 ---
 
-## 📌 About This Repository
+# 🚀 DSA & LeetCode Solutions
 
-This repository is my personal log of **Data Structures & Algorithms (DSA)** practice.  
-I'm solving problems from **LeetCode** and uploading my **Java solutions** here to track progress, revise concepts, and build consistency.
+Welcome to my **Data Structures and Algorithms (DSA)** repository! This repository contains my solutions to LeetCode problems that I solve regularly to improve my problem-solving skills, strengthen my understanding of algorithms, and prepare for coding interviews.
 
-> 🎯 Goal: Solve problems daily, understand patterns, and become confident in DSA for interviews & competitive programming.
+## 📌 About
 
----
+* 💻 Language: **Java**
+* 📚 Platform: **LeetCode**
+* 🎯 Goal: Improve problem-solving skills and prepare for software engineering interviews.
+* 📈 Regularly updated with new solutions.
 
-## 📁 Folder Structure
-
-```
-DSA-Journey/
-│
-├── Arrays/
-│   ├── TwoSum.java
-│   └── MaxSubArray.java
-│
-├── LinkedList/
-│   └── ReverseLinkedList.java
-│
-├── Trees/
-│   └── InorderTraversal.java
-│
-├── DynamicProgramming/
-│   └── ClimbingStairs.java
-│
-└── README.md
-```
-
-Each folder represents a **topic**, and each file is a **LeetCode problem solved in Java**, named after the problem.
+> *The folder structure may expand as I solve more problems.*
 
 ---
 
-## 📅 Daily Log
+## 📝 What You'll Find
 
-| Date | Problem | Difficulty | Topic | Link |
-|------|---------|------------|-------|------|
-| DD/MM/YYYY | Two Sum | Easy | Array | [Solution](./Arrays/TwoSum.java) |
-| DD/MM/YYYY | Reverse Linked List | Easy | Linked List | [Solution](./LinkedList/ReverseLinkedList.java) |
+Each solution includes:
 
-*(Add a new row every time you solve a problem)*
+* ✅ Clean and readable Java code
+* ✅ Efficient approach whenever possible
+* ✅ Well-organized problem categories
+
+---
+
+## 📊 Progress
+
+I continuously update this repository as I solve new problems.
+
+**Current Goal**
+
+* Solve problems consistently every day.
+* Strengthen DSA fundamentals.
+* Build strong interview preparation.
+
+---
+
+## 🤝 Contributions
+
+This repository is primarily for my personal learning journey, but suggestions and improvements are always welcome.
 
 ---
 
