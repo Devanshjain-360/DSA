@@ -1,15 +1,25 @@
 class Solution {
     public int maximumCount(int[] nums) {
-        int x=0;
-        int y=0;
-        for(int i=0;i<nums.length;i++){
-            if( nums[i]==0) continue;
-            else if(nums[i]>0) x++;
-            else if(nums[i]<0) y++;
+        int n = nums.length;
+        int lo = 0, hi = n - 1;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            if (nums[mid] < 0)
+                lo = mid + 1;
+            else
+                hi = mid - 1;
         }
-        if(x==y)return x;
-        else if(x>y)return x;
-        else if(x<y)return y;
-        return -1;
+        int negative = lo;
+        lo = 0;
+        hi = n - 1;
+        while (lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            if (nums[mid] <= 0)
+                lo = mid + 1;
+            else
+                hi = mid - 1;
+        }
+        int positive = n - lo;
+        return Math.max(negative, positive);
     }
 }
