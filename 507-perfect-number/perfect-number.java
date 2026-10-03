@@ -5,6 +5,9 @@ class Solution {
 
             if (n % i == 0) {
                 sum = sum + i;
+                if( sum > n){
+                    break;
+                }
             }
         }
         if (sum == n)
